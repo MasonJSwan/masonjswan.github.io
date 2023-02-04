@@ -3,7 +3,7 @@
 My name is Mason Swanson. I am a CS major at Boise State University.
 
 | Characteristic | Me |
-| :--- | ---: |
+| :--- | ----------: |
 | Name | Mason Swanson |
 | Pronouns | He/Him |
 | Major | Computer Science |
